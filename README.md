@@ -1,123 +1,66 @@
-# Healthcare Economics & Policy Projects
+# Healthcare Economics and Policy Projects
 
-This repository highlights a collection of projects I have completed at the intersection of **public health, economics, regulatory policy, and data analysis**. These projects demonstrate my experience drafting policy memos, conducting regulatory and economic analyses, applying quantitative methods, and evaluating health & drug data across U.S. and international sources.
+This repository highlights projects I have completed at the intersection of public health, economics, and data analysis. The work spans regulatory policy, health economics, and applied research using both U.S. and international data.
 
----
+## Independent Projects
 
-## 🏛️ 1. FDA – Regulatory Economics Internship
+### Healthcare Data Analysis (RAND Oregon Study)
 
-**Description:**  
-Interned with the U.S. Food & Drug Administration (Office of the Commissioner) analyzing the impacts of expedited approval programs and regulatory decision-making. Supported the agency with tools for policy evaluation and economic quantification.
+Completed a data analysis project using the RAND Oregon health insurance dataset to study the relationship between copayments, coverage plans, and hospital visits.  
+- Built logistic and linear regression models in R to assess healthcare utilization and out-of-pocket expenditure.  
+- Controlled for demographic confounders such as education level and geographic location.  
+- Produced a final report and reproducible code hosted on GitHub.  
 
-**Key Methods & Tools:**  
-- R for data visualization and exploratory analysis  
-- Python (web scraper) for gathering Regulatory Impact Analyses (RIAs)  
-- Comparative timeline analysis (e.g., IND → NDA durations)  
-- Regulatory and policy evaluation frameworks
+Link: [Healthcare Data Analysis Project](https://github.com/ElvisHan2022/Healthcare-Data-Analytics-Final-Project)
 
-**Highlights:**  
-- Created visualizations showing how expedited pathways reduce regulatory review times  
-- Automated extraction of RIAs, improving research and reporting efficiency  
-- Identified historical trends in FDA approval pathways to inform projections
+### PKH Cost-Benefit Analysis (Indonesia)
 
----
+Evaluated the Program Keluarga Harapan (PKH), a conditional cash transfer program in Indonesia targeting the poorest 20 percent of households.  
+- Applied cost-effectiveness and budget impact analysis to model program outcomes.  
+- Estimated an average return on investment of 8.1 percent over 18 years, with significant long-term human capital benefits.  
+- Conducted a SWOT analysis to evaluate program sustainability and policy risks.  
 
-## 🏢 2. Cato Institute – Health Policy & Drug Data Analyst Intern
+Report: [PKH Cost-Benefit Analysis](./pkh-cost-benefit-analysis/PKH_Cost-Benefit_Analysis.pdf)
 
-**Description:**  
-Worked on a variety of health policy and data analysis tasks, including drafting weekly memos for HHS-related topics, performing literature reviews, conducting outreach for telehealth legislation, and analyzing active ingredient overlap between human and animal drugs in the U.S. and Australia.
+### Monetary Policy and Banking in Thailand (1800–1905)
 
-**Key Methods & Tools:**  
-- Policy memo drafting & literature reviews (topics: overcoding, HSA investments, market capitalization, impact of CARES Act reimbursements for hospitals)  
-- Stakeholder/legislative research + cold‐calling state governments (Nevada, New Jersey, North Carolina) regarding SANE telehealth laws  
-- Data analysis in Excel using U.S. FDA drug datasets and Australian datasets (Therapeutic Goods Administration / Australian Government, including PBS data)  
-- Comparative active ingredient matching across human and veterinary drugs
+Authored a working paper through Johns Hopkins’ Studies in Applied Economics series on Thailand’s 19th century transition from silver to gold standards and the rise of early banking institutions.  
+- Collected and analyzed archival trade and financial data.  
+- Produced original estimates of Thai money supply based on import and export records.  
+- Examined the influence of foreign banks such as HSBC and Banque de l’Indochine on monetary stability.  
 
-**Highlights:**  
-- Wrote policy memos that influenced internal recommendations on health reimbursement and regulatory policy  
-- Conducted data-driven analysis identifying overlap in active ingredient usage between human and animal pharmaceuticals in U.S. vs. Australia  
-- Tracked telehealth legal developments by directly surveying and querying state officials  
+Paper: [Working Paper 266](./working-paper-thailand/Working_Paper_266_Han.pdf)
 
 ---
 
-## 📊 3. Healthcare Data Analysis (RAND Oregon Study)
+## Internships
 
-**Description:**  
-Analyzed demographic and insurance data from RAND Oregon to explore how insurance copayments and coverage plans affect hospital visits. Built regression models to evaluate healthcare utilization and out-of-pocket expenditure patterns.
+### FDA Regulatory Economics Internship
 
-**Key Methods & Tools:**  
-- Logistic & linear regression (R)  
-- Variable construction: risk & coverage levels, copayments, demographic controls  
-- Health economics framing: utilization, access, cost burden
+Interned with the U.S. Food and Drug Administration (Office of the Commissioner) to analyze the impact of expedited approval programs and regulatory decision-making.  
+- Created data visualizations in R showing time reductions between IND and NDA filings.  
+- Built a Python scraper to automate Regulatory Impact Analysis (RIA) extraction, reducing manual lookup time by 55 percent.  
+- Identified historical trends in expedited approval pathways to inform internal analysis.
 
-**Highlights:**  
-- Identified significant relationships between copayment levels and frequency of hospital visits  
-- Controlled for educational, geographic, and coverage confounders  
-- Produced a full GitHub‐hosted final project with reproducible code and visualizations
+### Cato Institute Health Policy Internship
 
-👉 [View Project Repository](https://github.com/ElvisHan2022/Healthcare-Data-Analytics-Final-Project)
-
----
-
-## 💵 4. PKH Cost-Benefit Analysis (Indonesia)
-
-**Description:**  
-Evaluated Indonesia’s Program Keluarga Harapan (conditional cash transfer) using cost‐benefit, ROI, and budget impact modeling over an extended rollout.
-
-**Key Methods & Tools:**  
-- Cost‐effectiveness analysis (CEA)  
-- Budget impact modeling  
-- Sensitivity analysis and scenario testing  
-- Excel and other quantitative tools
-
-**Highlights:**  
-- Modeled phased implementation across millions of households  
-- Found meaningful ROI (~8.1%) over long term due to human capital improvements  
-- SWOT analysis of program design, sustainability
-
-📄 [Read the Full Report](./pkh-cost-benefit-analysis/PKH_Cost-Benefit_Analysis.pdf)
+Worked as a health policy intern with the Cato Institute. Drafted memos, conducted literature reviews, and completed data analysis projects.  
+- Wrote weekly policy memos for senior fellows on HHS issues. Topics included overcoding, HSA investments, market capitalization, and CARES Act reimbursement policies.  
+- Researched and called state governments (Nevada, New Jersey, North Carolina) to track telehealth legislation related to SANE programs.  
+- Conducted a drug data analysis project in Excel comparing active ingredient overlap in human and animal drugs using U.S. FDA data and Australian data from the Therapeutic Goods Administration (TGA) and Pharmaceutical Benefits Scheme (PBS).
 
 ---
 
-## 🔍 5. Monetary Policy & Banking in Thailand (1800–1905)
+## Skills Demonstrated
 
-**Description:**  
-Working paper exploring Thailand’s transition from silver → gold standards, the feudal “Sakdi Na” system, and early free/banking practices in trade & currency “regime” construction.
-
-**Key Methods & Tools:**  
-- Archival historical data collection (trade, monetary, legal documents)  
-- Reconstruction of money supply & trade balances  
-- Qualitative & quantitative policy history
-
-**Highlights:**  
-- Produced original estimates of money supply using import/export numbers  
-- Analyzed roles of foreign banks and trade shifts  
-- Published as a working paper under SAE series  
-
-📄 [Read the Working Paper](./working-paper-thailand/Working_Paper_266_Han.pdf)
+- Statistical programming: R, Python, Excel, Alteryx  
+- Health economics: cost-effectiveness analysis, budget impact analysis, ROI modeling, sensitivity analysis  
+- Policy and regulatory analysis (FDA, HHS, state-level telehealth legislation, international health policy)  
+- Data cleaning and comparative analysis across U.S. and international datasets  
+- Policy writing and academic research
 
 ---
 
-## 🔑 Skills Demonstrated Across Projects
+## About
 
-- Statistical programming: **R, Python, Excel, Alteryx**  
-- Health economics & economic evaluation: cost‐effectiveness, budget impact, ROI, sensitivity analysis  
-- Regulatory and policy analysis, including FHA / HHS / FDA / TGA context  
-- Data cleaning, matching, and comparative analysis (U.S. vs international)  
-- Stakeholder engagement, legislative research, public policy writing  
-
----
-
-## 🌍 Australian Data Source Note
-
-- The **Therapeutic Goods Administration (TGA)** — part of Australia’s Department of Health — manages the *Australian Register of Therapeutic Goods (ARTG)*, containing data on therapeutic goods legally supplied in Australia (formulation, sponsor, etc.). :contentReference[oaicite:0]{index=0}  
-- The **Pharmaceutical Benefits Scheme (PBS)** is Australia’s national prescription medicines subsidy program. Researchers use PBS data for medication dispensing, cost, utilization, and comparative drug usage analyses. :contentReference[oaicite:1]{index=1}  
-
----
-
-## 🌐 About Me
-
-I am a student at Johns Hopkins University focused in **Public Health Studies & Economics** with a minor in **Applied Mathematics & Statistics**. My work spans regulatory policy, health economics, data analysis, and policy evaluation, with both domestic (U.S.) and global (Indonesia, Australia) perspectives.
-
----
-
+I am an undergraduate at Johns Hopkins University studying Public Health Studies and Economics, with a minor in Applied Mathematics and Statistics. My work bridges quantitative methods with health policy and economics, with applications in regulation, healthcare delivery, and global health.
